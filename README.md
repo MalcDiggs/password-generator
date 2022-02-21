@@ -12,7 +12,7 @@ Password generator that provides variety for strength and complexity of password
 
 Link URL to deployed app on GitHub
 
-
+https://malcdiggs.github.io/password-generator/
 
 Link URL to GitHub Repository
 
