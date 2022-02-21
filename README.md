@@ -1,7 +1,7 @@
 # Password-generator
 
 ## Project purpose
-Password generator that provides variety for strength. 
+Password generator that provides variety for strength and complexity of password.
 
 ## Screenshot
 
